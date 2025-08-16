@@ -1,4 +1,4 @@
-📌# Project: Recursion (The Odin Project)
+📌Project: Recursion (The Odin Project)
 A JavaScript tutorial project aimed at mastering recursion by solving two classic problems:
 
 - Fibonacci Sequence — the fibs(n) function generates the first n numbers of the Fibonacci sequence, and fibsRec(n) solves the same problem recursively.
